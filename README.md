@@ -103,3 +103,8 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+
+🌟 About Me
+Hi there! I'm Melvin L Brooks, an aspiring Data Engineer. I have over several years of experience in coding, data analytics and marketing. My goal in to continue to expand 
+my knowledge while continuing to share my code and insights. Feel free to contact me on linkedin: https://www.linkedin.com/in/melvin-brooks-668665118/
